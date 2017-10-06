@@ -1,0 +1,30 @@
+//
+//  PrefixHeader.pch
+//  多线程基础demo
+//
+//  Created by ArrQ on 2017/10/4.
+//  Copyright © 2017年 ArrQ. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#define SCREEN_WIDTH   [[UIScreen mainScreen] bounds].size.width
+#define SCREEN_HEIGHT  [[UIScreen mainScreen] bounds].size.height
+
+
+
+#import <UIKit/UIKit.h>
+#import <objc/runtime.h>
+#import <Foundation/Foundation.h>
+#import <Masonry/Masonry.h>
+#import <SDWebImage/SDImageCache.h>
+
+#import <MJExtension/MJExtension.h>
+#import <IQKeyboardManager.h>
+#import <UIImageView+WebCache.h>
+#import <SDWebImage/SDWebImageManager.h>
+
+
+
+
+#endif /* PrefixHeader_pch */
