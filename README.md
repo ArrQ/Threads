@@ -24,7 +24,7 @@ GCD
 
 
 
-### NSOperation ————-gcd 的封装
+### NSOperation ———— gcd 的封装
 
 - NSOperationQueue
   - a addOperation
